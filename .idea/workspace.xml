@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48346c98-0d94-4d87-9646-f1009821ba2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic/MainProcedure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainProcedure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MainProcedure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainProcedure.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Prove.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SquareGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic/SquareGraph.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +45,14 @@
     "last_opened_file_path": "/home/francesco/Programmazione/Java/graphs.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ProveKt">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainProcedureKt">
     <configuration name="MainProcedureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProcedureKt" />
+      <option name="MAIN_CLASS_NAME" value="dijkstraLogic.MainProcedureKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ProveKt" />
         <item itemvalue="Kotlin.MainProcedureKt" />
+        <item itemvalue="Kotlin.ProveKt" />
       </list>
     </recent_temporary>
   </component>

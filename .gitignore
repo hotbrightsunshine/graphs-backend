@@ -1,6 +1,6 @@
 target
 old
 .key
-consoleApp.iml
-graphs-backend.iml
+*.iml
+*.iml
 .idea

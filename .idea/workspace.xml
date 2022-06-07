@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48346c98-0d94-4d87-9646-f1009821ba2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic/MainProcedure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/backend/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainProcedure.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Prove.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SquareGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic/SquareGraph.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consoleApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consoleApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic/MainProcedure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dijkstra/MainProcedure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dijkstraLogic/SquareGraph.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/dijkstra/SquareGraph.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -42,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/francesco/Programmazione/Java/graphs.java"
+    "last_opened_file_path": "/home/francesco/Programmazione/Java/graphs-backend"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -52,7 +61,7 @@
   </component>
   <component name="RunManager" selected="Kotlin.MainProcedureKt">
     <configuration name="MainProcedureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dijkstraLogic.MainProcedureKt" />
+      <option name="MAIN_CLASS_NAME" value="dijkstra.MainProcedureKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />

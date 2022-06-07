@@ -1,4 +1,4 @@
-package dijkstraLogic
+package dijkstra
 
 fun main() {
     val graph = SquareGraph(3, 3);

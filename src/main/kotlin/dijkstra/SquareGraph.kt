@@ -1,10 +1,9 @@
-package dijkstraLogic
+package dijkstra
 
 import org.jgrapht.Graph
 import org.jgrapht.GraphPath
 import org.jgrapht.alg.shortestpath.DijkstraShortestPath
 import org.jgrapht.generate.GridGraphGenerator
-import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.graph.DefaultWeightedEdge
 import org.jgrapht.graph.SimpleWeightedGraph
 import org.jgrapht.traverse.DepthFirstIterator
